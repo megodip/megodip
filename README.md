@@ -1,4 +1,4 @@
-# Hi i am Megodip
-I am python beginer. Here you can see my works.
+# Hi i am Favaticos aka @Megodip
+I am CSE beginer. Here you can see my works.
 
-Now I making simple console programs, but I improoving my skils everyday.
+Now I making simple programs, but I improoving my skils everyday.
